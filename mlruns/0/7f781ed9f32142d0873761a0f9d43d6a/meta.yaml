@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow-test/mlruns/0/7f781ed9f32142d0873761a0f9d43d6a/artifacts
+end_time: 1742160313163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f781ed9f32142d0873761a0f9d43d6a
+run_name: shivering-chimp-430
+run_uuid: 7f781ed9f32142d0873761a0f9d43d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742160305682
+status: 3
+tags: []
+user_id: rayya

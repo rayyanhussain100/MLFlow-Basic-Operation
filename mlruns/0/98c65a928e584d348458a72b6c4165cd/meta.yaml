@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFlow-test/mlruns/0/98c65a928e584d348458a72b6c4165cd/artifacts
+end_time: 1742161005600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c65a928e584d348458a72b6c4165cd
+run_name: angry-trout-911
+run_uuid: 98c65a928e584d348458a72b6c4165cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742160998258
+status: 3
+tags: []
+user_id: rayya
